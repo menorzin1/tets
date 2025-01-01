@@ -5,16 +5,17 @@ color 4
 @ ECHO.
 @ ECHO.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Origin/Apex/EAC Cleaner ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 @ ECHO.
-@ ECHO This will log you out of origin so please note your login.
+@ ECHO Isso irá desconectá-lo do Origin, então anote suas credenciais de login.
 @ ECHO.
-@ ECHO ! Restart your PC after the cleaning before playing again !
+@ ECHO ! Reinicie seu PC após a limpeza antes de jogar novamente !
 @ ECHO.
-@ ECHO. Please ignore any errors, they are normal and expected.
+@ ECHO. Por favor, ignore quaisquer erros, eles são normais e esperados.
 @ ECHO.
 @ ECHO ------------------------------------------------------------------------------------------------------------------------
-@ ECHO                  	             Ready... Press any key to Clean your System
+@ ECHO                  	             Pronto... Pressione qualquer tecla para limpar seu sistema
 @ ECHO ------------------------------------------------------------------------------------------------------------------------
 @ ECHO.
+
 pause
 color a
 @ ECHO.
@@ -1130,10 +1131,11 @@ netsh advfirewall reset
 @ ECHO.
 @ ECHO.
 color 1
-echo                 				System cleaned successfully
+echo                 				Sistema limpo com sucesso
 @ ECHO.
-echo  		Please restart your system for cleaning to be complete.
+echo  		Por favor, reinicie seu sistema para concluir a limpeza.
 @ ECHO.
+
 @ ECHO.
 echo. & pause
 
